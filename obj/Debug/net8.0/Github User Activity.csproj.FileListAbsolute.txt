@@ -1,0 +1,17 @@
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\bin\Debug\net8.0\Github User Activity.exe
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\bin\Debug\net8.0\Github User Activity.deps.json
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\bin\Debug\net8.0\Github User Activity.runtimeconfig.json
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\bin\Debug\net8.0\Github User Activity.dll
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\bin\Debug\net8.0\Github User Activity.pdb
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\Debug\net8.0\Github User Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\Debug\net8.0\Github User Activity.AssemblyInfoInputs.cache
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\Debug\net8.0\Github User Activity.AssemblyInfo.cs
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\Debug\net8.0\Github User Activity.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\Debug\net8.0\Github User Activity.dll
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\Debug\net8.0\refint\Github User Activity.dll
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\Debug\net8.0\Github User Activity.pdb
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\Debug\net8.0\Github User Activity.genruntimeconfig.cache
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\Debug\net8.0\ref\Github User Activity.dll
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\Debug\net8.0\Github User Activity.csproj.AssemblyReference.cache
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\Debug\net8.0\Github U.48522C6B.Up2Date
