@@ -15,3 +15,4 @@ C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\D
 C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\Debug\net8.0\Github User Activity.csproj.AssemblyReference.cache
 C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\Debug\net8.0\Github U.48522C6B.Up2Date
+C:\Users\user\Documents\NET Core\Github User Activity\Github User Activity\obj\Debug\net8.0\Github User Activity.sourcelink.json
